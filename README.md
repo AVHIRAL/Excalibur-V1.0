@@ -1,4 +1,4 @@
-# Excalibur-V1.0
+# Excalibur-V2.0
 
 EXCALIBUR v2.0 – AI Trading Microsecond Engine  
 Développé par **AVHIRAL 2025 (c)** – Projet confidentiel
