@@ -55,4 +55,4 @@ CONFIGURATION :
 ------------------------------------------------------------
 © AVHIRAL 2025 – Tous droits réservés ⚔
 
-PAYPAL : https://www.paypal.com/donate/?hosted_button_id=EZW7NMLW8YG4W
+DON PAYPAL : https://www.paypal.com/donate/?hosted_button_id=EZW7NMLW8YG4W
